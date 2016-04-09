@@ -48,7 +48,7 @@ class admin_peru extends fs_controller
             {
                $div0->coddivisa = 'PEN';
                $div0->codiso = '604';
-               $div0->descripcion = 'NUEVOS SOLES';
+               $div0->descripcion = 'SOLES';
                $div0->simbolo = 'S/.';
                $div0->tasaconv = 3.4272;
                $div0->save();
